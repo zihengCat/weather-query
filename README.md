@@ -1,9 +1,12 @@
 # weather-Query (python3) 
-Simple python3 script for getting weather infomation in China.
+Simple python3 script for getting weather infomation in China.    
 
 ## deps
-API: weather.sina.com.cn
-libs: urllib, re
+
+API: weather.sina.com.cn   
+
+libs: urllib, re   
+
 ## Usage
 ```
 python3  weather.py
