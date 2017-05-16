@@ -1,4 +1,4 @@
-#! /usr/bin/python
+#! /usr/bin/python3
 # -*- coding:utf-8 -*- 
 
 import urllib.request
@@ -67,11 +67,10 @@ def get_weather_info(get_html):
         print("========================")
 
     else:
-        print("Something Error")
+        print("Error: Something Error")
 
 def get_weather():
     get_weather_info(get_html())
-
 
 get_weather()
 

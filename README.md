@@ -1,5 +1,5 @@
 # weather-Query (python3) 
-Simple python3 script for getting weather infomation in China city.    
+Simple python3 script for getting weather infomations in China city.    
 
 ## deps
 
