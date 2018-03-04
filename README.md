@@ -1,18 +1,17 @@
-# weather-Query (python3) 
-Simple python3 script for getting weather infomations in China city.    
+# CLI Weather Query
+Simple Python3 script for getting weather infomations in China cities.
 
-## deps
+## Deps
 
-**API**: weather.sina.com.cn   
-
-**libs**: urllib, re   
+- API: weather.sina.com.cn
+- Libs: [urllib, re]
 
 ## Usage
 
 ```
 python3  weather.py
 ```
-or    
+or
 ```
 chmod +x weather.py && ./weather.py
 ```
